@@ -69,7 +69,7 @@ export default {
 <style scoped>
 
     h1 {
-        margin: 40px 0;
+        margin-bottom: 40px;
     }
 
     span {
